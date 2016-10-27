@@ -6,6 +6,7 @@ html{
 .continer{
   width:940px;
   margin-left: auto;
+  margin-right:auto;
 }
 h1{
   font-family: Arial Black,Arial;
@@ -134,7 +135,6 @@ hr{
 footer{
   width: 1280px;
   height: 60px;
-  margin-left: 120px;
   background-color : #889C5B;
   margin-top: 34px;
 }
@@ -144,5 +144,5 @@ footer p{
   color:#EDF2C5;
   padding-top: 24px;
   padding-bottom: 24px;
-  padding-left:490px;
+  padding-left:610px;
 }
